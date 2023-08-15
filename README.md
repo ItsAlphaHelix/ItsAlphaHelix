@@ -5,4 +5,4 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAlphaHelix)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAlphaHelix&exclude_repo=github-readme-stats,ItsAlphaHelix.github.io)
